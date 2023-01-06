@@ -574,7 +574,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30ed81e58447de647bb41d905fc5d44b, type: 3}
   m_Name: 
@@ -931,6 +931,7 @@ GameObject:
   - component: {fileID: 1873567802}
   - component: {fileID: 1873567801}
   - component: {fileID: 1873567800}
+  - component: {fileID: 1873567803}
   m_Layer: 0
   m_Name: Cubo3
   m_TagString: Untagged
@@ -1021,7 +1022,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1873567795}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30ed81e58447de647bb41d905fc5d44b, type: 3}
   m_Name: 
@@ -1045,9 +1046,21 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1873567795}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3978e2ab74d1a1948b2de08c5c34e93a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1873567803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1873567795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c3c78066e1b67469479f08d5836604, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1992673789

@@ -48,52 +48,52 @@ public class For_While_Do_While : MonoBehaviour
                 Debug.Log(dia);
             }
 
-            //int[,] miMatriz = new int[3, 3] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
-            //for (int j = 0; j < miMatriz.GetLength(0); j++)
-            //{
-            //    for (int k = 0; k < miMatriz.GetLength(0); k++)
-            //    {
-            //        miMatriz[j, k] += 1;
-            //        Debug.Log(miMatriz[j, k]);
-            //    }
-            //}
+        //int[,] miMatriz = new int[3, 3] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+        //for (int j = 0; j < miMatriz.GetLength(0); j++)
+        //{
+        //    for (int k = 0; k < miMatriz.GetLength(0); k++)
+        //    {
+        //        miMatriz[j, k] += 1;
+        //        Debug.Log(miMatriz[j, k]);
+        //    }
+        //}
 
-            //int[][] miArregloJagged = new int[][]
-            //{
-            //    new int []{1,2,3},
-            //    new int []{4,5},
-            //    new int []{6,7,8,9}
-            //};
-            //miArregloJagged[1] = new int[] { 10, 11, 12, 13 };
+        //int[][] miArregloJagged = new int[][]
+        //{
+        //    new int []{1,2,3},
+        //    new int []{4,5},
+        //    new int []{6,7,8,9}
+        //};
+        //miArregloJagged[1] = new int[] { 10, 11, 12, 13 };
 
-            //Debug.Log(miArregloJagged[0][1]);
-            //for (int x = 0; x < miArregloJagged.Length; x++)
-            //{
-            //    for (int y = 0; y < miArregloJagged[x].Length; y++)
-            //    {
-            //        Debug.Log(miArregloJagged[x][y]);
-            //    }
-            //}
+        //Debug.Log(miArregloJagged[0][1]);
+        //for (int x = 0; x < miArregloJagged.Length; x++)
+        //{
+        //    for (int y = 0; y < miArregloJagged[x].Length; y++)
+        //    {
+        //        Debug.Log(miArregloJagged[x][y]);
+        //    }
+        //}
 
-            //for (int i = 10; i > 1; i--)
-            //{
-            //    Debug.Log(i);
-            //}
-            //bool miBooleano = false;
-            //while (contador < 10)
-            //{
-            //    contador++;
-            //    Debug.Log("Hola");
-            //}
-            //while (miBooleano)
-            //{
-            //    contador++;
-            //    Debug.Log("Hola");
-            //}
-            //do
-            //{
-            //    Debug.Log("Hola desde el do while");
-            //} while (miBooleano);
+        //for (int i = 10; i > 1; i--)
+        //{
+        //    Debug.Log(i);
+        //}
+        //bool miBooleano = false;
+        //while (contador < 10)
+        //{
+        //    contador++;
+        //    Debug.Log("Hola");
+        //}
+        //while (miBooleano)
+        //{
+        //    contador++;
+        //    Debug.Log("Hola");
+        //}
+        //do
+        //{
+        //    Debug.Log("Hola desde el do while");
+        //} while (miBooleano);
     }
 
     // Update is called once per frame
